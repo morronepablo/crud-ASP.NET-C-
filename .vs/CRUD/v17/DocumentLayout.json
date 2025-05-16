@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|c:\\users\\pmorrone.dominio\\source\\repos\\crud\\pages\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|solutionrelative:pages\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|c:\\users\\pmorrone.dominio\\source\\repos\\crud\\pages\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|solutionrelative:pages\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|c:\\users\\pmorrone.dominio\\source\\repos\\crud\\pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|solutionrelative:pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|c:\\users\\pmorrone.dominio\\source\\repos\\crud\\pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|solutionrelative:pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|c:\\users\\pmorrone.dominio\\source\\repos\\crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A62A383-32F4-45C2-9382-2C4317F944A6}|CRUD.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUD.aspx",
+              "DocumentMoniker": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\CRUD.aspx",
+              "RelativeDocumentMoniker": "Pages\\CRUD.aspx",
+              "ToolTip": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\CRUD.aspx",
+              "RelativeToolTip": "Pages\\CRUD.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-16T17:54:47.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\Index.aspx.cs",
+              "RelativeToolTip": "Pages\\Index.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:20:21.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\Index.aspx",
+              "RelativeDocumentMoniker": "Pages\\Index.aspx",
+              "ToolTip": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\Index.aspx",
+              "RelativeToolTip": "Pages\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-16T15:34:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-16T15:21:06.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUD.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\CRUD.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\CRUD.aspx.cs",
+              "ToolTip": "C:\\Users\\pmorrone.DOMINIO\\source\\repos\\CRUD\\Pages\\CRUD.aspx.cs",
+              "RelativeToolTip": "Pages\\CRUD.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:20:32.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
